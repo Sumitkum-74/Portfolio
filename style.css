@@ -138,6 +138,7 @@ span{
     display:inline-block;
     padding:1rem 2.8rem;
     background:orange;
+    color:white;
     border-radius: 4rem;
     box-shadow:0 0 1rem orange;
     font-size:1.6rem;
@@ -164,6 +165,7 @@ span{
 .about-content h2{
     text-align:left;
     line-height:1.2;
+    color:white;
 }
 .about-content h3{
     font-size:2.6rem;
@@ -174,6 +176,7 @@ span{
 }
 .about-content .btn{
     background-color: white;
+    color:orange;
 }
 .services h2{
     margin-bottom: 5rem;
@@ -195,6 +198,7 @@ span{
 }
 .services-container .service-box .btn{
     background:white;
+    color:orange;
 
 }
 .services-container .service-box:hover{
